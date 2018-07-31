@@ -2,5 +2,5 @@
 Use the following scripts to easily deploy caffe on an ubuntu machine.
 
 Prerequisites:
-Install Nvidia drivers.
-Install CUDA (Preferably 9.0 and above).
+ - Install Nvidia drivers.
+ - Install CUDA (Preferably 9.0 and above).
